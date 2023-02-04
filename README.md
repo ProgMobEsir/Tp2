@@ -1,2 +1,2 @@
 # Tp2
-learningProject
+display a item list with britany departments
